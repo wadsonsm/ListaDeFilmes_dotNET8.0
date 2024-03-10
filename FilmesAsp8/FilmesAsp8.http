@@ -1,0 +1,6 @@
+@FilmesAsp8_HostAddress = http://localhost:5256
+
+GET {{FilmesAsp8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
