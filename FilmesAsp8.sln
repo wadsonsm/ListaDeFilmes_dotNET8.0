@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34601.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmesAsp8", "FilmesAsp8\FilmesAsp8.csproj", "{4D446ABC-818D-4AEA-B54C-3EEEF1B73184}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filmes.Domain", "Filmes.Domain\Filmes.Domain.csproj", "{260028DF-DCE7-4E2D-91B6-BA0AD4DCC9A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4D446ABC-818D-4AEA-B54C-3EEEF1B73184}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D446ABC-818D-4AEA-B54C-3EEEF1B73184}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D446ABC-818D-4AEA-B54C-3EEEF1B73184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{260028DF-DCE7-4E2D-91B6-BA0AD4DCC9A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260028DF-DCE7-4E2D-91B6-BA0AD4DCC9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260028DF-DCE7-4E2D-91B6-BA0AD4DCC9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260028DF-DCE7-4E2D-91B6-BA0AD4DCC9A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
